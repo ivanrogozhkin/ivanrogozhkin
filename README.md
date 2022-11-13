@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ivanrogozhkin
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Activity Properties
+- 📫 How to reach me VK: https://vk.com/xsavzh TG: https://t.me/xsavzh
