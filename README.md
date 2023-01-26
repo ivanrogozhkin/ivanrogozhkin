@@ -7,7 +7,7 @@ Android Developer
 I've been studying Android Development for over half a year.
 
 * 🌍  I'm based in Saratov, Russia
-* 🚀  I'm currently working on [MetalBandsRecyclerView](http://github.com/ivanrogozhkin/MetalBandsRecyclerView)
+* 🚀  I'm currently working on [MusicPlayer](http://github.com/ivanrogozhkin/MusicPlayer)
 * 🧠  I'm learning RecyclerView, properties of Activities and Fragments
 
 <a href="https://www.github.com/ivanrogozhkin" target="_blank" rel="noreferrer"><img
